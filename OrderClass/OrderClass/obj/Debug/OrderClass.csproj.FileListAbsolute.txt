@@ -1,0 +1,7 @@
+C:\Users\igupta\source\repos\OrderClass\OrderClass\bin\Debug\OrderClass.exe.config
+C:\Users\igupta\source\repos\OrderClass\OrderClass\bin\Debug\OrderClass.exe
+C:\Users\igupta\source\repos\OrderClass\OrderClass\bin\Debug\OrderClass.pdb
+C:\Users\igupta\source\repos\OrderClass\OrderClass\obj\Debug\OrderClass.csprojAssemblyReference.cache
+C:\Users\igupta\source\repos\OrderClass\OrderClass\obj\Debug\OrderClass.csproj.CoreCompileInputs.cache
+C:\Users\igupta\source\repos\OrderClass\OrderClass\obj\Debug\OrderClass.exe
+C:\Users\igupta\source\repos\OrderClass\OrderClass\obj\Debug\OrderClass.pdb

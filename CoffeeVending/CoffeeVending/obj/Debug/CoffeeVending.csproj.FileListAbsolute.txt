@@ -1,0 +1,7 @@
+C:\Users\igupta\source\repos\CoffeeVending\CoffeeVending\bin\Debug\CoffeeVending.exe.config
+C:\Users\igupta\source\repos\CoffeeVending\CoffeeVending\bin\Debug\CoffeeVending.exe
+C:\Users\igupta\source\repos\CoffeeVending\CoffeeVending\bin\Debug\CoffeeVending.pdb
+C:\Users\igupta\source\repos\CoffeeVending\CoffeeVending\obj\Debug\CoffeeVending.csprojAssemblyReference.cache
+C:\Users\igupta\source\repos\CoffeeVending\CoffeeVending\obj\Debug\CoffeeVending.csproj.CoreCompileInputs.cache
+C:\Users\igupta\source\repos\CoffeeVending\CoffeeVending\obj\Debug\CoffeeVending.exe
+C:\Users\igupta\source\repos\CoffeeVending\CoffeeVending\obj\Debug\CoffeeVending.pdb

@@ -1,0 +1,7 @@
+C:\Users\igupta\source\repos\Ques5\Ques5\bin\Debug\Ques5.pdb
+C:\Users\igupta\source\repos\Ques5\Ques5\obj\Debug\Ques5.csprojAssemblyReference.cache
+C:\Users\igupta\source\repos\Ques5\Ques5\obj\Debug\Ques5.csproj.CoreCompileInputs.cache
+C:\Users\igupta\source\repos\Ques5\Ques5\obj\Debug\Ques5.pdb
+C:\Users\igupta\source\repos\Ques5\Ques5\bin\Debug\Ques5.dll.config
+C:\Users\igupta\source\repos\Ques5\Ques5\bin\Debug\Ques5.dll
+C:\Users\igupta\source\repos\Ques5\Ques5\obj\Debug\Ques5.dll
